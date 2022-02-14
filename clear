@@ -1,0 +1,35 @@
+[33mcommit e100336e28c760142572f1bbd531dad3321e075f[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: jorge <jorgge006@gmail.com>
+Date:   Sun Feb 13 21:19:24 2022 -0300
+
+    Lista no início do título
+
+[33mcommit 00b3c0022940ecb427d6514cf633f0c1c341adbe[m
+Author: jorge <jorgge006@gmail.com>
+Date:   Sun Feb 13 21:08:08 2022 -0300
+
+    Alterando título da página
+
+[33mcommit 5d8779cc9665cebcb1735d3f3692f0e5f91ee104[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ana <kimbidasilva@gmail.com>
+Date:   Sun Feb 13 17:47:43 2022 -0300
+
+    Renomeando curso de Integração Contínua
+
+[33mcommit b1d282e32f3bba32fd46703af864077fc3b011f0[m
+Author: Jorge <jorgge006@gmail.com>
+Date:   Tue Feb 8 01:16:02 2022 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 532fc51261e9c667b6fc9be08e85951b6a74d902[m
+Author: Jorge <jorgge006@gmail.com>
+Date:   Sun Feb 6 23:41:39 2022 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit 0e004acd3b48f23193b1541e680b94293d3620d1[m
+Author: Jorge <jorgge006@gmail.com>
+Date:   Sun Feb 6 23:21:48 2022 -0300
+
+    Criando arquivo index.html com lista de cursos
